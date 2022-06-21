@@ -1,0 +1,28 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+.singleContainer{
+    width: 50%;
+    margin: 0 auto;
+    padding-bottom: 7em;
+}
+
+.detailsContainer{
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.heroImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.details{
+    text-align: center;
+}
